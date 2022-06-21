@@ -1,0 +1,9 @@
+name: JoeySpawners
+version: '${project.version}'
+main: me.joeyspawners.JoeySpawners
+api-version: 1.18
+description: Easier way to give yourself a custom mob spawner
+
+commands:
+  givespawner:
+    description: all commands to give yourself spawners including a custom GUI
